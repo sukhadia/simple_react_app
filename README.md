@@ -1,2 +1,3 @@
 # simple_react_app
-A simple web app built with React JS
+
+A simple app using React. Maintains a very basic in-memory cache of candle inventory.
